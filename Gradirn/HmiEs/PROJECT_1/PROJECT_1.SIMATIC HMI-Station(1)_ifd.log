@@ -1,0 +1,27 @@
+﻿ES2RT linker log file created on 6 июня 2020 г. 15:58:32
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationAppearanceWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Warning - Resource Id [ InvalidTagDataType ], containing object type [ Warning ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+0 errors, 18 warnings - succeeded.
+
+Writing "C:\Program Files (x86)\Siemens\Step7\s7proj\Gradirn\HmiEs\PROJECT_1\PROJECT_1.SIMATIC HMI-Station(1)"...
+Done.
